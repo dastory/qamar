@@ -1,6 +1,5 @@
 client;3dcf34a6023633a0d92521ec9c8d5ae4;1;client;25;no;Ahlan wa sahlan
 
-sadiq;5e5a9ac43349202bab6dc89b81011d1b;0;client
 tawhid;2c6a0a1791d6e1a3d4fa932d1eb02b86;0;client
 hisham;762290c0ff6d2f6cf6f3dd9df442e46f;0;client
 husain;0a1ebfcdc4d570b0eff79fab96dcfbe0;0;client
@@ -14,4 +13,5 @@ qasim;8384532cc11337ac2fd58891cc916b38;0;client
 hashim;01a1b33389599bf7d1bd11bc4a14b6a2;0;client
 asim;3f4c5064f8c97bbb6831b054d9243a99;0;client
 ahmad;3411ccba39aa4fc3c848c64460b691ba;0;client
-forhad;41be0579605fd7737e190c9e5c3683b5;0;client
+sadiq;5e5a9ac43349202bab6dc89b81011d1b;1;client
+forhad;41be0579605fd7737e190c9e5c3683b5;1;client
